@@ -1,0 +1,4 @@
+email;role;firstName;lastName;tenantUniqueId;tenantName;plan;passwordDigest;passwordAlg;passwordPepper;passwordPepperPosition
+adam.smith@example.com;OWNER;Adam;Smith;1;;;;;;
+john.doe@example.com;OWNER;John;Doe;2;Johns space;ESSENTIALS;"$2a$12$ui7OiBv2DplDYRhHNYoHp.FrfGwTqcr2VUyinh2dFjD9x3KqY4PIq";BCRYPT;a2GY8lmw;END
+lisa.doe@example.com;ADMIN;Lisa;Doe;2;Johns space;ESSENTIALS;"$2a$12$ui7OiBv2DplDYRhHNYoHp.FrfGwTqcr2VUyinh2dFjD9x3KqY4PIq";BCRYPT;a2GY8lmw;END
